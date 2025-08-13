@@ -4,3 +4,11 @@ main:
     url: /documentation/
   - title: "Contact"
     url: /contact/
+
+docs:  
+  - title: "Computing"
+    url: /documentation/computing/
+  - title: "Motion Capture System"
+    url: /documentation/mocap/
+  - title: "Battery Safety"
+    url: /documentation/battery/
