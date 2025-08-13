@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Documentation"
+    url: /documentation/
+  - title: "Contact"
+    url: /contact/
